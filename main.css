@@ -29,8 +29,7 @@ h3{
   background-color: ivory;
   margin: 10px 5px 0px 5px;
   padding: 0px 5px 0px 5px;
-  border: solid;
-  border-width: 5px 5px 0px 5px;
+
 }
 p {
   font-family: Roboto;
@@ -38,6 +37,5 @@ p {
   background-color: ivory;
   margin: 0px 5px 0px 5px;
   padding: 0px 5px 0px 5px;
-  border: solid;
-  border-width: 0px 5px 5px 5px;
+
 }
